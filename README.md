@@ -1,2 +1,2 @@
 # lang-files
-language files for Qredit Motion
+language files for Qredit Motion and Altfenix
